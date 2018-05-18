@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-spike",
+  "description": "Demostrate Puppeteer capabilities",
+  "version": "1.0.0",
+  "author": "Ignacio Gil",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest ./test/smoke-test.spec.js"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.7.0",
+    "html-dnd": "^1.2.0",
+    "jest": "^22.4.3",
+    "jest-puppeteer": "^3.0.1",
+    "puppeteer": "^1.4.0"
+  },
+  "jest": {
+    "verbose": false
+  }
+}
