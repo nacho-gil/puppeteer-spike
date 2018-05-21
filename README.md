@@ -1,2 +1,2 @@
 # puppeteer-spike
-Demostrate Puppeteer capabilities
+Demonstrate Puppeteer capabilities
